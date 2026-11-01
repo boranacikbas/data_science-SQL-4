@@ -68,3 +68,5 @@ INSERT INTO orders (customer_id, product_id, order_date, quantity, status) VALUE
 conn.commit()
 cur.close()
 conn.close()
+
+

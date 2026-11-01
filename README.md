@@ -124,3 +124,6 @@ CREATE SCHEMA data4;
 ```
 
 Tablo ve sorguların başına schema adını ekleyin. Foreign key tanımlarında da schema adını unutmayın. **Pushlarken schema öneki olmadan bırakın.**
+
+
+

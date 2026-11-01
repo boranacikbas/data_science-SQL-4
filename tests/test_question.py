@@ -24,7 +24,7 @@ from data.question import (
 # Kaizu ID'n — Profile → Settings → User ID
 # Skorunun Kaizu'ya gitmesi için 0 yerine kendi ID'ni yaz.
 # ─────────────────────────────────────────────
-USER_ID = 0  # ← BURAYI DEĞİŞTİR
+USER_ID = 601  # ← BURAYI DEĞİŞTİR
 
 
 def run_common_test(expected_data, tested_func):
@@ -185,3 +185,5 @@ def run_tests():
 
 if __name__ == "__main__":
     run_tests()
+
+
